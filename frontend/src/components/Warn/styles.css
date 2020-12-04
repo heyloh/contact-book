@@ -1,0 +1,19 @@
+.warning-container {
+  display: flex;
+  max-width: 460px;
+  width: 100%;
+  height: 35px;
+  background: rgba(215, 87, 87, 0.5);
+  align-items: center;
+  border: 0.2px solid #834646;
+  border-radius: 8px;
+  margin-top: 5px;
+}
+
+.warning-container p {
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 12px;
+  color: #834646;
+  margin-left: 10px;
+}
