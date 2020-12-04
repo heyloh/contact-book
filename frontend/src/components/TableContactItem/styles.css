@@ -1,0 +1,35 @@
+td {
+  border-top: 1px solid #D8DADD;
+  font-size: 10px;
+  font-weight: normal;
+  padding: 15px;
+  text-align: left;
+  color: #3A4145;
+}
+
+.edit {
+  color: #5858A8;
+  font-weight: bold;
+  transition: 0.3s;
+}
+.edit:hover {
+  color: #7878d1;
+}
+
+.delete {
+  color: #D75757;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.delete:hover {
+  color: #e47373;
+}
+
+td button {
+  background: none;
+  border: none;
+  font-size: 10px;
+  font-weight: normal;
+  cursor: pointer;
+}
